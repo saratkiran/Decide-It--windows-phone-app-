@@ -1,0 +1,13 @@
+C:\Users\Saratkiran\Desktop\Decisions\Bin\Release\ApplicationIcon.png
+C:\Users\Saratkiran\Desktop\Decisions\Bin\Release\Background.png
+C:\Users\Saratkiran\Desktop\Decisions\Bin\Release\Decisions.dll
+C:\Users\Saratkiran\Desktop\Decisions\Bin\Release\Decisions.pdb
+C:\Users\Saratkiran\Desktop\Decisions\Bin\Release\AppManifest.xaml
+C:\Users\Saratkiran\Desktop\Decisions\Bin\Release\Decisions.xap
+C:\Users\Saratkiran\Desktop\Decisions\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Saratkiran\Desktop\Decisions\obj\Release\App.g.i.cs
+C:\Users\Saratkiran\Desktop\Decisions\obj\Release\MainPage.g.i.cs
+C:\Users\Saratkiran\Desktop\Decisions\obj\Release\Decisions.g.resources
+C:\Users\Saratkiran\Desktop\Decisions\obj\Release\Decisions.dll
+C:\Users\Saratkiran\Desktop\Decisions\obj\Release\Decisions.pdb
+C:\Users\Saratkiran\Desktop\Decisions\obj\Release\XapCacheFile.xml

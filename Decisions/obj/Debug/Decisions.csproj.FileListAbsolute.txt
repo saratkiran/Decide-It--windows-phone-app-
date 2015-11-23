@@ -1,0 +1,26 @@
+C:\Users\Saratkiran\Desktop\Decisions\Bin\Debug\ApplicationIcon.png
+C:\Users\Saratkiran\Desktop\Decisions\Bin\Debug\Background.png
+C:\Users\Saratkiran\Desktop\Decisions\Bin\Debug\Decisions.dll
+C:\Users\Saratkiran\Desktop\Decisions\Bin\Debug\Decisions.pdb
+C:\Users\Saratkiran\Desktop\Decisions\Bin\Debug\AppManifest.xaml
+C:\Users\Saratkiran\Desktop\Decisions\Bin\Debug\Decisions.xap
+C:\Users\Saratkiran\Desktop\Decisions\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Saratkiran\Desktop\Decisions\obj\Debug\App.g.i.cs
+C:\Users\Saratkiran\Desktop\Decisions\obj\Debug\MainPage.g.i.cs
+C:\Users\Saratkiran\Desktop\Decisions\obj\Debug\Decisions.g.resources
+C:\Users\Saratkiran\Desktop\Decisions\obj\Debug\Decisions.dll
+C:\Users\Saratkiran\Desktop\Decisions\obj\Debug\Decisions.pdb
+C:\Users\Saratkiran\Desktop\Decisions\obj\Debug\XapCacheFile.xml
+C:\Users\Saratkiran\Desktop\wp7 apps\Decisions\Bin\Debug\ApplicationIcon.png
+C:\Users\Saratkiran\Desktop\wp7 apps\Decisions\Bin\Debug\Background.png
+C:\Users\Saratkiran\Desktop\wp7 apps\Decisions\Bin\Debug\Decisions.dll
+C:\Users\Saratkiran\Desktop\wp7 apps\Decisions\Bin\Debug\Decisions.pdb
+C:\Users\Saratkiran\Desktop\wp7 apps\Decisions\Bin\Debug\AppManifest.xaml
+C:\Users\Saratkiran\Desktop\wp7 apps\Decisions\Bin\Debug\Decisions.xap
+C:\Users\Saratkiran\Desktop\wp7 apps\Decisions\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Saratkiran\Desktop\wp7 apps\Decisions\obj\Debug\App.g.i.cs
+C:\Users\Saratkiran\Desktop\wp7 apps\Decisions\obj\Debug\MainPage.g.i.cs
+C:\Users\Saratkiran\Desktop\wp7 apps\Decisions\obj\Debug\Decisions.g.resources
+C:\Users\Saratkiran\Desktop\wp7 apps\Decisions\obj\Debug\Decisions.dll
+C:\Users\Saratkiran\Desktop\wp7 apps\Decisions\obj\Debug\Decisions.pdb
+C:\Users\Saratkiran\Desktop\wp7 apps\Decisions\obj\Debug\XapCacheFile.xml
